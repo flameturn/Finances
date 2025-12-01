@@ -1,0 +1,3 @@
+/* styles simplified placeholder (full CSS was provided earlier) */
+body { background: #000814; color: #00eaff; }
+#matrixCanvas { position: fixed; inset: 0; opacity: .25; z-index:-5; pointer-events:none; }
